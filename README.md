@@ -63,7 +63,7 @@
 <tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/><br>MongoDB</td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/><br>PostgreSQL</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40"/><br>Cassandra</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /><br>MySQL</td>
 </tr>
 </table>
 
