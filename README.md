@@ -2,7 +2,7 @@
 <h3 >Full-Stack Developer • Software Engineer • Secure Systems Builder</h3>
 
 <p >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Next.js+%26+TypeScript+Engineer;Node.js+%26+Django+Backend+Developer;Flutter+Mobile+Developer;EHR+%26+FHIR+Implementer;Always+Building+%26+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Next.js+%26+TypeScript+Engineer;Node.js+%26+Django+Backend+Developer;Always+Building+%26+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,8 +37,8 @@
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/><br>TypeScript</td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br>React</td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/><br>Next.js</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/><br>Flutter</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/><br>Dart</td>
+<!--<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/><br>Flutter</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/><br>Dart</td>-->
 </tr>
 </table>
 
