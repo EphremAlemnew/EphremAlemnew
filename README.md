@@ -85,7 +85,7 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EphremAlemnew&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EphremAlemnew&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EphremAlemnew&theme=dark&hide_border=false&compact=true)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EphremAlemnew&theme=tokyo-night&hide_border=true" />
